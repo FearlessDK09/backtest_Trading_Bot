@@ -1,0 +1,6 @@
+pandas
+numpy
+sqlalchemy
+python-binance
+python-telegram-bot
+TA-Lib
